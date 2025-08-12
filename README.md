@@ -10,19 +10,19 @@ El objetivo principal es recopilar, procesar y analizar datos de clientes utiliz
 
 ## 🔍 Contenido del notebook
 
-EXTRACCIÓN -> Obtención de los datos
-TRASFORMACIÓN -> Limpieza de los datos y tratamiento de valores atípicos
-CARGA Y ANÁLISIS -> Análisis de los datos y gráficas
-INFORME FINAL -> Resumen de los insights
+- EXTRACCIÓN -> Obtención de los datos
+- TRASFORMACIÓN -> Limpieza de los datos y tratamiento de valores atípicos
+- CARGA Y ANÁLISIS -> Análisis de los datos y gráficas
+- INFORME FINAL -> Resumen de los insights
 
 
 ## 🛠️ Herramientas y bibliotecas
 
 Python
 
--pandas
--numpy
--matplotlib
--seaborn
--requests
--json
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- requests
+- json
